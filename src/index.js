@@ -18,7 +18,7 @@ const phrases = [
 
 const bookPhrase = () => {
   const phrase = phrases[Math.floor(Math.random() * phrases.length)]
-  console.log(`\x1b[34m${phrase}\x1b[89m]`)
+  console.log(`\x1b[34m${phrase}\x1b[89m`)
 }
 
 module.exports = {
