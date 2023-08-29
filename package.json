@@ -1,0 +1,20 @@
+{
+  "name": "random-book-phrase",
+  "version": "1.0.0",
+  "description": "Node package to get a random book phrase in the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPabloPena/random-book-phrase.git"
+  },
+  "keywords": ["npm", "terminal"],
+  "author": "Juan Pablo Peña F. <pablo27-99@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JPabloPena/random-book-phrase/issues"
+  },
+  "homepage": "https://github.com/JPabloPena/random-book-phrase#readme"
+}
